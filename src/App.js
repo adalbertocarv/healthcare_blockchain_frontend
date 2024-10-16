@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import Healthcare from './Healthcare';
 
 function App() {
   return (
